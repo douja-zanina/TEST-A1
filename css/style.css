@@ -3,8 +3,8 @@ color: white;
 font-weight: bold;
 }
 #input{
-    background-color: #0d6efd;
-    color: white;
+    background-color: #0d6efd ;
+    color: white !important;
 }
 .titre1{
     color: #0d6efd;
